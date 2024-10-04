@@ -1,5 +1,5 @@
 ### Top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHTrungSkySP&layout=compact&langs_count=20&hide=html,css)](https://github.com/LHTrungSkySP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candymansosweet&layout=compact&langs_count=20&hide=html,css)](https://github.com/candymansosweet/github-readme-stats)
 
 ### 🔨 Languages and Tools:
 
